@@ -21,7 +21,7 @@ import chatInterface.ChatSubscriber;
 import logging.Logger;
 
 /**
- * The main GUI for a simple chat application. 
+ * The main GUI for a simple chat application.
  * 
  * @author Mats Palm (original Thomas Ejnefjäll)
  */
